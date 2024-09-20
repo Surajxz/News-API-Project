@@ -1,7 +1,6 @@
 # Overview
 This project is a web application that leverages the News API to fetch and display real-time news articles. Users can search for news based on specific keywords or categories, and the application will provide relevant results.
-<img width="1158" alt="image" src="![logo](https://github.com/user-attachments/assets/701ee776-b6de-4b02-9513-dca6ffab1603)
-">
+<img width="1158" alt="image" src="https://i.pinimg.com/originals/23/66/1b/23661bbdba36b0c9cb1474cfc3f3a94a.png">
 
 # Features
 News Search: Users can input keywords or phrases to search for articles related to their interests.
