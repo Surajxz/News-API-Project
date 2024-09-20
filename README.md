@@ -1,7 +1,7 @@
-Overview
+# Overview
 This project is a web application that leverages the News API to fetch and display real-time news articles. Users can search for news based on specific keywords or categories, and the application will provide relevant results.
 
-Features
+# Features
 News Search: Users can input keywords or phrases to search for articles related to their interests.
 Category Filtering: The application offers filtering options to browse news by category (e.g., business, technology, sports, entertainment).
 Article Details: Clicking on an article will display its full content, including the headline, author, publication date, and source.
@@ -12,7 +12,7 @@ HTML
 CSS
 JavaScript
 A JavaScript framework (e.g., React, Angular, Vue) for efficient UI development and management
-Backend:
+# Backend:
 Node.js (optional, for server-side rendering or API handling)
-API:
+# API:
 News API (https://newsapi.org/)
